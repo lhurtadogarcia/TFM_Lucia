@@ -9,10 +9,10 @@ After obtaining the differentially expressed genes (DEGs) for each dataset studi
 ## REQUIREMENTS
 * R version 4
 * ExpHunter Suite package (https://github.com/seoanezonjic/ExpHunterSuite)
-* Packages used throughout the script. 
+* Packages used throughout the scripts from CRAN or Bioconductor. 
 
-## Table of contents
+## TABLE OF CONTENTS
 * [Code](./Code) : appropiately commented scripts. 
-* Count_tables.
-* Reports.
+* [Count tables](./Count_tables): one for each dataset, as well as a file with the correct labels per sample.
+* [Reports](./Reports): output after executing the ExpHunter Suite analysis. 
 
