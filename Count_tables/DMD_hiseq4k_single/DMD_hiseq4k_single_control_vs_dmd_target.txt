@@ -1,0 +1,7 @@
+sample	treat
+control1	Ctrl
+control2	Ctrl
+control3	Ctrl
+dmd1	Treat
+dmd2	Treat
+dmd3	Treat
