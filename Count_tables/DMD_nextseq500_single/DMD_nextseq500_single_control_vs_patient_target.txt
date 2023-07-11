@@ -1,0 +1,10 @@
+sample	treat
+ES_1	Ctrl
+ES_2	Ctrl
+ES_3	Ctrl
+RF_1	Ctrl
+RF_2	Ctrl
+RF_3	Ctrl
+dmd1	Treat
+dmd2	Treat
+dmd3	Treat
