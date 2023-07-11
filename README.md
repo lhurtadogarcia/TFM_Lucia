@@ -1,6 +1,6 @@
 # Master's thesis - Lucía Hurtado de Mendoza García de La-Chica
 
-> Research done on the determination of common transcriptomic alterations in neuromuscular diseases. 
+> Research analysis done on the determination of common transcriptomic alterations in neuromuscular diseases. 
 
 ## REQUIREMENTS
 * R version 4
